@@ -1,5 +1,5 @@
 ## Informations Générales
-- **Cours :** Structures de Données et Algorithmes L2 Informatique
+- **Cours :** Structures de Données et Algorithmes L1 Informatique
 - **Travail Pratique :** Manipulation d'Expressions Arithmétiques
 
 ## Membres de l'équipe
